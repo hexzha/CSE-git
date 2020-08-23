@@ -57,7 +57,7 @@ $ git config --list
 
 - $ git commit -m "Concise message for changes made"
 
-  Create a checkpoint for files Git is tracking
+  Create a snapshot for files Git is tracking
 
 
 ## Putting Work onto GitHub
