@@ -52,7 +52,7 @@ $ git config --list
 
 - $ git add \<file name\>
 
-  Have Git track a file
+  Have Git track a file and add <file name> to staging
 
 
 - $ git commit -m "Concise message for changes made"
