@@ -84,5 +84,5 @@ $ git config --list
   Take the changes from GitHub repo to local repo
   
 ## More Commands
-[git cheet sheet](https://education.github.com/git-cheat-sheet-education.pdf)
+- [git cheet sheet](https://education.github.com/git-cheat-sheet-education.pdf)
   
