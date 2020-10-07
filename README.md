@@ -76,7 +76,7 @@ $ git config --list
   
   Viewing remote repos Git is tracking from
   
-
+  
 ## Getting Changes from GitHub
 
 - $ git pull origin master
@@ -86,3 +86,6 @@ $ git config --list
 ## More Commands
 - [git cheet sheet](https://education.github.com/git-cheat-sheet-education.pdf)
   
+## Deeper Reads
+   [Pro Git Book, by Scott Chacon and Ben Straub](https://git-scm.com/book/)
+
