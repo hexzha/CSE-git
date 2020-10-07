@@ -87,5 +87,5 @@ $ git config --list
 - [git cheet sheet](https://education.github.com/git-cheat-sheet-education.pdf)
   
 ## Deeper Reads
-   [Pro Git Book, by Scott Chacon and Ben Straub](https://git-scm.com/book/)
+- [Pro Git Book, by Scott Chacon and Ben Straub](https://git-scm.com/book/)
 
